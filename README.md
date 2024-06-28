@@ -1,3 +1,3 @@
 # Spatio_Temporal_Analysis_V1
-# Sample code for spatio-temporal visualization
+# Sample code for spatio-temporal analysis including visualization
 This code attempts to implement ConvLASTM to model and predict human activity index in spatiotemporal dimension.
